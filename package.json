@@ -1,0 +1,17 @@
+{
+  "name": "filo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Efe Aydemir",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.23.0"
+  }
+}
